@@ -1,0 +1,23 @@
+
+.sm
+{
+    border: 2px solid rgb(118, 113, 113);
+    height: 450px;
+    width: 400px;
+    border-radius: 20px;
+    background-color: red;
+    overflow-y: scroll;
+}
+
+.itm
+{
+    border: 2px solid black; 
+    height: 150px;
+    width: 80%;  
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    opacity: 0.9;
+}
+
